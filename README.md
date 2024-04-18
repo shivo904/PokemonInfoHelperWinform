@@ -1,1 +1,1 @@
-Personal project for easily looking up specific pokemon's typing and strengths and weaknesses to the typing. This application works for every generation except gen 1. 
+Personal project to easily looking up a specific pokemon's typing and display the strengths and weaknesses to that typing. This application works for every generation except gen 1. 
