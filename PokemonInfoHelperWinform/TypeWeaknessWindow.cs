@@ -60,7 +60,7 @@ namespace PokemonInfoHelperWinform
                 return GetSWChart(Resources.AttackingPokemonTypesGen6);
                 //return GetSWChartFromFile("Resources\\AttackingPokemonTypesGen6.json");
             }
-            return GetSWChart(Resources.DefendingPokemonTypesGen6);
+            return GetSWChart(Resources.AttackingPokemonTypesGen6);
             //return GetSWChartFromFile("Resources\\AttackingPokemonTypesGen2.json");
         }
 
